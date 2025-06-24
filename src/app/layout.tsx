@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Abby Arce - Personal Portfolio",
+  title: "Abby Arce - Portfolio",
   description: "Hi! I'm Abby Arce, a Software Engineering student at The University of Texas at Dallas. Software Engineer Intern at Fidelity Investments, Technology Officer at SHPE UTD. Passionate about building tools that make life easier.",
   keywords: ["Abby Arce", "Software Engineer", "Fidelity Investments", "UTD", "Software Engineering", "Student", "Developer"],
   authors: [{ name: "Abby Arce" }],
