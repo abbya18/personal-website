@@ -12,59 +12,16 @@ const icons = {
     <svg width="28" height="28" fill="none" viewBox="0 0 24 24"><path fill="#5c4037" d="M12 13.065 2 6.5V18a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V6.5l-10 6.565Zm10-8.065H2a2 2 0 0 0-2 2v.217l12 7.882 12-7.882V7a2 2 0 0 0-2-2Z"/></svg>
   ),
   frog: (
-    <svg width="40" height="40" viewBox="0 0 24 24" fill="none">
-      <circle cx="12" cy="12" r="10" fill="#4ade80"/>
-      <circle cx="9" cy="10" r="1.5" fill="#166534"/>
-      <circle cx="15" cy="10" r="1.5" fill="#166534"/>
-      <circle cx="9" cy="10" r="0.5" fill="white"/>
-      <circle cx="15" cy="10" r="0.5" fill="white"/>
-      <ellipse cx="12" cy="14" rx="2" ry="1" fill="#166534"/>
-      <ellipse cx="12" cy="13" rx="1.5" ry="0.5" fill="#dcfce7"/>
-      <path d="M8 8 Q12 6 16 8" stroke="#166534" strokeWidth="1" fill="none"/>
-      <path d="M7 16 Q12 18 17 16" stroke="#166534" strokeWidth="1" fill="none"/>
-    </svg>
+    <svg width="32" height="32" fill="none" viewBox="0 0 32 32"><ellipse cx="16" cy="24" rx="12" ry="6" fill="#b7e4c7"/><circle cx="10" cy="12" r="4" fill="#b3e0f2"/><circle cx="22" cy="12" r="4" fill="#b3e0f2"/><ellipse cx="16" cy="20" rx="8" ry="4" fill="#f7c6c7"/></svg>
   ),
   cat: (
-    <svg width="40" height="40" viewBox="0 0 24 24" fill="none">
-      <circle cx="12" cy="12" r="10" fill="#fbbf24"/>
-      <ellipse cx="12" cy="14" rx="3" ry="2" fill="#92400e"/>
-      <circle cx="10" cy="11" r="1" fill="#92400e"/>
-      <circle cx="14" cy="11" r="1" fill="#92400e"/>
-      <circle cx="10" cy="11" r="0.3" fill="white"/>
-      <circle cx="14" cy="11" r="0.3" fill="white"/>
-      <ellipse cx="12" cy="13" rx="1" ry="0.5" fill="#92400e"/>
-      <path d="M8 8 L10 6 L12 8" fill="#92400e"/>
-      <path d="M16 8 L14 6 L12 8" fill="#92400e"/>
-      <path d="M9 9 Q12 7 15 9" stroke="#92400e" strokeWidth="0.5" fill="none"/>
-      <path d="M9 16 Q12 18 15 16" stroke="#92400e" strokeWidth="0.5" fill="none"/>
-    </svg>
+    <svg width="32" height="32" fill="none" viewBox="0 0 32 32"><ellipse cx="16" cy="24" rx="12" ry="6" fill="#f9e79f"/><ellipse cx="16" cy="16" rx="8" ry="8" fill="#f7c6c7"/><polygon points="8,8 12,2 16,8" fill="#f7c6c7"/><polygon points="24,8 20,2 16,8" fill="#f7c6c7"/></svg>
   ),
   dog: (
-    <svg width="40" height="40" viewBox="0 0 24 24" fill="none">
-      <circle cx="12" cy="12" r="10" fill="#f59e0b"/>
-      <ellipse cx="12" cy="14" rx="3" ry="2" fill="#78350f"/>
-      <circle cx="10" cy="11" r="1" fill="#78350f"/>
-      <circle cx="14" cy="11" r="1" fill="#78350f"/>
-      <circle cx="10" cy="11" r="0.3" fill="white"/>
-      <circle cx="14" cy="11" r="0.3" fill="white"/>
-      <ellipse cx="12" cy="13" rx="1" ry="0.5" fill="#78350f"/>
-      <ellipse cx="8" cy="9" rx="1.5" ry="2" fill="#f59e0b"/>
-      <ellipse cx="16" cy="9" rx="1.5" ry="2" fill="#f59e0b"/>
-      <path d="M9 9 Q12 7 15 9" stroke="#78350f" strokeWidth="0.5" fill="none"/>
-      <path d="M9 16 Q12 18 15 16" stroke="#78350f" strokeWidth="0.5" fill="none"/>
-    </svg>
+    <svg width="32" height="32" fill="none" viewBox="0 0 32 32"><ellipse cx="16" cy="24" rx="12" ry="6" fill="#c2b280"/><ellipse cx="16" cy="16" rx="8" ry="8" fill="#b3e0f2"/><ellipse cx="10" cy="10" rx="4" ry="6" fill="#c2b280"/><ellipse cx="22" cy="10" rx="4" ry="6" fill="#c2b280"/></svg>
   ),
   coffee: (
-    <svg width="40" height="40" viewBox="0 0 24 24" fill="none">
-      <rect x="6" y="8" width="12" height="8" rx="2" fill="#8b5a2b"/>
-      <rect x="7" y="9" width="10" height="6" rx="1" fill="#d2691e"/>
-      <ellipse cx="12" cy="12" rx="4" ry="2" fill="#654321"/>
-      <ellipse cx="12" cy="11" rx="3" ry="1" fill="#8b4513"/>
-      <rect x="8" y="16" width="8" height="2" fill="#8b5a2b"/>
-      <rect x="9" y="17" width="6" height="1" fill="#654321"/>
-      <path d="M6 10 Q4 8 6 6" stroke="#8b5a2b" strokeWidth="1" fill="none"/>
-      <path d="M18 10 Q20 8 18 6" stroke="#8b5a2b" strokeWidth="1" fill="none"/>
-    </svg>
+    <svg width="32" height="32" fill="none" viewBox="0 0 32 32"><ellipse cx="16" cy="24" rx="12" ry="6" fill="#c2b280"/><rect x="10" y="10" width="12" height="8" rx="4" fill="#fff"/><ellipse cx="16" cy="14" rx="6" ry="2" fill="#b7e4c7"/></svg>
   ),
 };
 
