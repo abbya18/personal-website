@@ -1,4 +1,28 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Abby Arce - Personal Website
+
+A cozy, Animal Crossing-inspired personal website for Abby Arce, built with Next.js, Tailwind CSS, and a Formspree contact form.
+
+## Features
+- About Me, Experience, Projects, Skills, and Contact sections
+- Animal Crossing-inspired theme with animal and coffee icons
+- Responsive, accessible, and playful design
+- Contact form powered by Formspree
+
+## Tech Stack
+- Next.js (App Router, TypeScript)
+- Tailwind CSS (custom cozy theme)
+- Node.js
+- Formspree (contact form)
+
+## How to Run
+```bash
+npm install
+npm run dev
+```
+
+---
+
+Inspired by Animal Crossing, cozy games, and the joy of coding!
 
 ## Getting Started
 
